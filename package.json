@@ -1,0 +1,15 @@
+{
+  "name": "my-weather-app",
+  "version": "1.0.0",
+  "description": "this \bThis web-app will tell about the weather at a certain place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shashank Jaiswal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
